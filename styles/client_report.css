@@ -1,3 +1,9 @@
+/* The following is the css for the CLIENT REPORT page. */
+
 main {
     margin: 5% 0 10% 0;
+}
+
+.report {
+    margin: 0 7% 0 7%;
 }
