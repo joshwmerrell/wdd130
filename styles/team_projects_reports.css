@@ -1,14 +1,15 @@
 /* The following is the css for the TEAM PROJECTS REPORTS page. */
 
 main {
-    margin: 5% 0 10% 0;
+    margin: 0 0 10% 0;
+    padding: 5% 0 0 0;
 }
 
-#report_title {
+#reports_title {
     margin: 0 0 5% 0;
 }
 
-#report_title * {
+#reports_title *, .report_title, .site_link {
     margin: 0;
     padding: 0;
 }
@@ -19,4 +20,8 @@ main {
 
 .report section * {
     text-align: left;
+}
+
+.report a {
+    text-decoration: underline;
 }
